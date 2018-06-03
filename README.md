@@ -1,6 +1,6 @@
 # Pattern_Regression_Python
 
-This is the code of our paper (https://www.sciencedirect.com/science/article/pii/S1053811918305081) about comparison of different pattern regression algorithms (i.e., OLS, Ridge, LASSO, Elastic-Net, SVR, RVR). 
+This is the code of our NeuroImage paper (https://www.sciencedirect.com/science/article/pii/S1053811918305081) about comparison of different pattern regression algorithms (i.e., OLS, Ridge, LASSO, Elastic-Net, SVR, RVR) and evaluation the impact of sample size on the prediction performance. 
 
 The scikit-learn library (version: 0.16.1) was used to implement OLS regression, LASSO regression, ridge regression and elastic-net regression (http://scikit-learn.org/) (Pedregosa et al., 2011), the LIBSVM function in MATLAB was used to implement LSVR (https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (Chang and Lin, 2011), the PRoNTo toolbox (http://www.mlnl.cs.ucl.ac.uk/pronto/) was used to implement RVR (Schrouff et al., 2013). 
 
