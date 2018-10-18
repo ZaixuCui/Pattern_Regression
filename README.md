@@ -2,7 +2,7 @@
 
 This is the code of our NeuroImage paper (https://www.sciencedirect.com/science/article/pii/S1053811918305081) about the comparison of different pattern regression algorithms (i.e., OLS, Ridge, LASSO, Elastic-Net, SVR, RVR) and the impact of sample size on the prediction performance. 
 
-If you tried these codes in your paper. I think functions like 'Ridge_KFold_Sort_AllSubsets' and 
+If you tried these codes in your paper. I think functions like 'Ridge_KFold_Sort_AllSubsets' and 'Ridge_KFold_Sort_OneSubset' are not useful for you. Just skip. Because in our NeuroImage paper, we do prediction for different sample size, and 50 times for each sample size. So, these two functions are used for repeat prediction for 50 different subsets. 
 
 Citing our related paper will be greatly appreciated if you use these codes.
 <br>&emsp; ```Zaixu Cui, Gaolang Gong; The effect of machine learning regression algorithms and sample size on individualized behavioral prediction with functional connectivity features, NeuroImage, Volume 178, Pages 622-637```
