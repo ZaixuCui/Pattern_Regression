@@ -137,7 +137,7 @@ def ElasticNet_KFold_RandomCV(Subjects_Data, Subjects_Score, Fold_Quantity, Alph
 
         Fold_J_Index = RandIndex[EachFold_Size * j + np.arange(EachFold_Size)]
         if Remain > j:
-            Fold_J_Index = np.insert(Fold_J_Index, len(Fold_J_Index), RandINdex[EachFold_Size * Fold_Quantity + j])
+            Fold_J_Index = np.insert(Fold_J_Index, len(Fold_J_Index), RandIndex[EachFold_Size * Fold_Quantity + j])
 
         Subjects_Data_test = Subjects_Data[Fold_J_Index, :]
         Subjects_Score_test = Subjects_Score[Fold_J_Index]
