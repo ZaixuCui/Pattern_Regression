@@ -2,7 +2,7 @@
 
 This is the code of our NeuroImage paper (https://www.sciencedirect.com/science/article/pii/S1053811918305081) about the comparison of different pattern regression algorithms (i.e., OLS, Ridge, LASSO, Elastic-Net, SVR, RVR) and the impact of sample size on the prediction performance. 
 
-If you would like to do prediction in your work. It's better to try codes in https://github.com/ZaixuCui/Pattern_Regression_Clean. The codes here are more specific to this study. 
+If you would like to do individualized behavior prediction in your work. It's better to try codes in https://github.com/ZaixuCui/Pattern_Regression_Clean. The codes here are more specific to this study. 
 
 Citing our related paper will be greatly appreciated if you use these codes.
 <br>&emsp; ```Zaixu Cui, Gaolang Gong; The effect of machine learning regression algorithms and sample size on individualized behavioral prediction with functional connectivity features, NeuroImage, Volume 178, Pages 622-637```
