@@ -9,7 +9,7 @@ Citing our related paper will be greatly appreciated if you use these codes.
 <br>&emsp; ```Zaixu Cui, et al., Individualized Prediction of Reading Comprehension Ability Using Gray Matter Volume, (2018), Cerebral Cortex, 28(5):1656–72```
 <br>&emsp; ```Zaixu Cui, et al., Individual variation in functional topography of association networks in youth. (2020) Neuron, 106(2): 340-53.```
 <br>&emsp; ```Zaixu Cui, et al., Optimization of energy state transition trajectory supports the development of executive function during youth. (2020) eLife. 9:e53060. ```
-<br>&emsp; ```Zaixu Cui, et al., 2016. Disrupted white matter connectivity underlying developmental dyslexia: A machine learning approach. Hum Brain Mapp 37, 1443-1458.```
+<br>&emsp; ```Zaixu Cui, et al., 2016. Disrupted white matter connectivity underlying developmental dyslexia: A machine learning approach. Hum Brain Mapp 37, 1443-1458.``` 
 
 The scikit-learn library (version: 0.16.1) was used to implement OLS regression, LASSO regression, ridge regression and elastic-net regression (http://scikit-learn.org/) (Pedregosa et al., 2011), the LIBSVM function in MATLAB was used to implement LSVR (https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (Chang and Lin, 2011), the PRoNTo toolbox (http://www.mlnl.cs.ucl.ac.uk/pronto/) was used to implement RVR (Schrouff et al., 2013). 
 
