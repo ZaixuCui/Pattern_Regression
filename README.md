@@ -1,4 +1,4 @@
-# Pattern_Regression_Python
+# Pattern_Regression
 
 This is the code of our NeuroImage paper (https://www.sciencedirect.com/science/article/pii/S1053811918305081) about the comparison of different pattern regression algorithms (i.e., OLS, Ridge, LASSO, Elastic-Net, SVR, RVR) and the impact of sample size on the prediction performance. 
 
