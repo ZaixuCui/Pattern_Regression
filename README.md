@@ -5,8 +5,8 @@ This is the code of our NeuroImage paper (https://www.sciencedirect.com/science/
 If you would like to do individualized behavior prediction in your work. It's better to try codes in https://github.com/ZaixuCui/Pattern_Regression_Clean. The codes here are more specific to this study. 
 
 Citing our related paper will be greatly appreciated if you use these codes.
-<br>&emsp; ```Zaixu Cui, Gaolang Gong, The effect of machine learning regression algorithms and sample size on individualized behavioral prediction with functional connectivity features, NeuroImage, Volume 178, Pages 622-637```
-<br>&emsp; ```Zaixu Cui, et al., Individualized Prediction of Reading Comprehension Ability Using Gray Matter Volume, Cerebral Cortex, Volume 28, Issue 5, 1 May 2018, Pages 1656–1672, https://doi.org/10.1093/cercor/bhx061```
+<br>&emsp; ```Zaixu Cui, Gaolang Gong, The effect of machine learning regression algorithms and sample size on individualized behavioral prediction with functional connectivity features, (2018), NeuroImage, 178: 622-37```
+<br>&emsp; ```Zaixu Cui, et al., Individualized Prediction of Reading Comprehension Ability Using Gray Matter Volume, (2018), Cerebral Cortex, 28(5):1656–72```
 <br>&emsp; ```Zaixu Cui, et al., Individual variation in functional topography of association networks in youth. (2020) Neuron, 106(2): 340-53.```
 <br>&emsp; ```Zaixu Cui, et al., Optimization of energy state transition trajectory supports the development of executive function during youth. (2020) eLife. 9:e53060. ```
 <br>&emsp; ```Zaixu Cui, et al., 2016. Disrupted white matter connectivity underlying developmental dyslexia: A machine learning approach. Hum Brain Mapp 37, 1443-1458.```
